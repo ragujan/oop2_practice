@@ -1,0 +1,8 @@
+
+Š
+java:S1130"oRemove the declaration of thrown exception 'practice.question_6.A1', as it cannot be thrown from method's body.(Ò”—×þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øÏ‘Ö
+P
+java:S1161	":Add the "@Override" annotation above this method signature(ïˆôá
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(õµÆ³ùÿÿÿÿ

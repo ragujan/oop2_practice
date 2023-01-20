@@ -1,0 +1,7 @@
+
+f	java:S116"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¼ÿ»øÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(îâÕŽþÿÿÿÿ
+A
+java:S1068"&Remove this unused "pq" private field.(¶Í”íùÿÿÿÿ
+@
+java:S1068"%Remove this unused "N" private field.(›¼ÿ»øÿÿÿÿ

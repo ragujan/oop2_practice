@@ -1,0 +1,19 @@
+
+^
+java:S4973
+"<Strings and Boxed types should be compared using "equals()".(«ç¤Âÿÿÿÿÿ8‰ĞïßÛ0
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(‰ıáä8‰ĞïßÛ0
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÍíúÖ8¾úïßÛ0
+X
+java:S4973"<Strings and Boxed types should be compared using "equals()".(÷ı¯e8â˜ğßÛ0
+Q
+java:S1854	"6Remove this useless assignment to local variable "s5".(Ò¼·Şùÿÿÿÿ
+I
+java:S1481	"'Remove this unused "s5" local variable.(Ò¼·Şùÿÿÿÿ8ÔóîßÛ0
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(«ç¤Âÿÿÿÿÿ8‘ĞïßÛ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰ıáä8‘ĞïßÛ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÍíúÖ8ÇúïßÛ0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(÷ı¯e8ï˜ğßÛ0

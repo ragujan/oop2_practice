@@ -1,0 +1,10 @@
+
+T
+java:S1854"7Remove this useless assignment to local variable "iob".(ëıáÚ8ï´ÅáÛ0
+>
+java:S2129"!Remove this "Integer" constructor(ëıáÚ8ğ´ÅáÛ0
+e
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ëıáÚ8ñ´ÅáÛ0
+E
+java:S1481"(Remove this unused "iob" local variable.(ëıáÚ8ñ´ÅáÛ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8Ş‰ÆáÛ0

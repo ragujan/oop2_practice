@@ -1,0 +1,9 @@
+
+J
+java:S3740	"/Provide the parametrized type for this generic.(¦„ÿúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æš¬ç
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÈÏê
+T
+java:S1128"2Remove this unused import 'java.util.Spliterator'.(òÀì¿ùÿÿÿÿ8¸úüğÛ0
+V
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8ÀóİóÛ0

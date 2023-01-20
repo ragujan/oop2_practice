@@ -1,0 +1,22 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(äÀƒüÿÿÿÿ
+€
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(äÀƒüÿÿÿÿ
+7
+java:S2129"!Remove this "Integer" constructor(•Å“†
+^
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(•Å“†
+<
+java:S2129	"!Remove this "Integer" constructor(œú¡şÿÿÿÿ
+c
+java:S5738	"HRemove this call to a deprecated method, it has been marked for removal.(œú¡şÿÿÿÿ
+<
+java:S2129
+"!Remove this "Integer" constructor(ƒµúÙøÿÿÿÿ
+c
+java:S5738
+"HRemove this call to a deprecated method, it has been marked for removal.(ƒµúÙøÿÿÿÿ
+C
+java:S2114"(Remove or correct this "removeAll" call.(ê…Ä…øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™Õ·

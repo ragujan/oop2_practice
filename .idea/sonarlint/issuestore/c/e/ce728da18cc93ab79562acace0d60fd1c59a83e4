@@ -1,0 +1,19 @@
+
+J
+java:S3740	"/Provide the parametrized type for this generic.(®ÀÒùûÿÿÿÿ
+J
+java:S3740	"/Provide the parametrized type for this generic.(®ÀÒùûÿÿÿÿ
+J
+java:S3740
+"/Provide the parametrized type for this generic.(¡¢¹¦şÿÿÿÿ
+R
+java:S1854
+"7Remove this useless assignment to local variable "set".(¡¢¹¦şÿÿÿÿ
+C
+java:S1481
+"(Remove this unused "set" local variable.(¡¢¹¦şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(”åÕ÷ûÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(êØİè8Ì‹ÇóÛ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†ÎÕçúÿÿÿÿ8é‡ÉóÛ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›¼„²8îØÉóÛ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”åÕ÷ûÿÿÿÿ8İ¥ÊóÛ0

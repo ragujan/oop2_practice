@@ -1,0 +1,12 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îîŞıÿÿÿÿ
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8˜ºôàÛ0
+R
+java:S1854"5Remove this useless assignment to local variable "a".(õ‡Ğ8™ºôàÛ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8™ºôàÛ0
+C
+java:S1481"&Remove this unused "a" local variable.(õ‡Ğ8šºôàÛ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8šºôàÛ0
